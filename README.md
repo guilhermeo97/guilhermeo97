@@ -9,7 +9,7 @@ public class Programmer{
 
 <p align="left">
     <h3 align="left">Conecte-se comigo:</h3>
-    <a href="https://www.linkedin.com/in/guilherme-oliveira-9b6b02109/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>  
+    <a href="https://www.linkedin.com/in/guilherme-oliveira-9b6b02109/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="40" width="40" /></a>  
 </p>
 
 ---
