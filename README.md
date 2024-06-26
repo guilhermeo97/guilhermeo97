@@ -33,7 +33,7 @@ public class Programmer{
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/marcodotcastro/sale-factory"><b>Organizador do Empreendedor</b></a></td>
+            	<td><a href="https://github.com/guilhermeo97/apiatendimento"><b>Organizador do Empreendedor</b></a></td>
 		<td>Business / Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/guilhermeo97/apiatendimento?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/guilhermeo97/apiatendimento?style=flat-square&labelColor=343b41" /></td>
@@ -42,7 +42,7 @@ public class Programmer{
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href="https://github.com/marcodotcastro/portal-agro"><b>Autuador de Infrações de Trânsito</b></a></td>
+		<td><a href="https://github.com/guilhermeo97/algatransitoapi"><b>Autuador de Infrações de Trânsito</b></a></td>
 	 	<td>Business / Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/guilhermeo97/algatransitoapi?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/guilhermeo97/algatransitoapi?style=flat-square&labelColor=343b41" /></td>
